@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
+🔭 I’m currently working on a mini project at the University of Pretoria.
+
+🌱 I’m currently learning Applied Maths and Computer Science.
+
+📫 My LinkedIn profile: www.linkedin.com/in/gianni-volpi
 <!--
 **general-patches/general-patches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
