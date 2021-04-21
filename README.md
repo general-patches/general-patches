@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a mini project at the University of Pretoria.
 
-🌱 I’m currently learning Applied Maths and Computer Science.
+🌱 I’m currently studying Applied Maths and Computer Science.
 
 📫 My LinkedIn profile: www.linkedin.com/in/gianni-volpi
 <!--
