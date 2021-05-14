@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-🔭 I’m currently working on a mini project at the University of Pretoria.
+🔭 My name is Gianni Volpi.
 
-🌱 I’m currently studying Applied Maths and Computer Science.
+🌱 I’m currently studying Applied Maths and Computer Science at the University of Pretoria.
+
+⚡ Some of my interests include: coding, drones, 3D printers, basically anything mechanical and of course, Lego.
 
 📫 My LinkedIn profile: www.linkedin.com/in/gianni-volpi
 <!--
