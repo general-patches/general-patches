@@ -2,9 +2,9 @@
 
 🔭 My name is Gianni Volpi.
 
-🌱 I’m a third year student currently studying Applied Maths and Computer Science at the University of Pretoria.
+🌱 I completed my Applied mathematics degree at the University of Pretoria in 2021 and I am currently working as a Graduate Software Engineer at EPI-USE Labs. I am planning to do an honours in computer science.
 
-⚡ Some of my interests include: coding, drones, 3D printers, basically anything mechanical and of course, Lego.
+⚡ Some of my interests include: mountain biking, hiking, coding, drones, 3D printers, basically anything mechanical and of course, Lego.
 
 📫 My LinkedIn profile: www.linkedin.com/in/gianni-volpi
 <!--
