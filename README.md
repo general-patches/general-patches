@@ -2,7 +2,7 @@
 
 🔭 My name is Gianni Volpi.
 
-🌱 I completed my Applied mathematics degree at the University of Pretoria in 2021 and I am currently working as a Graduate Software Engineer at EPI-USE Labs. I am planning to do an honours in computer science.
+🌱 I completed my Applied mathematics degree at the University of Pretoria in 2021 and I am currently working as a Software Engineer at EPI-USE Labs. I am also doing my honours in computer science.
 
 ⚡ Some of my interests include: mountain biking, hiking, coding, drones, 3D printers, basically anything mechanical and of course, Lego.
 
